@@ -130,6 +130,8 @@ hr{
 }
 
 .blog > .blog-details {
+    display: flex;
+    flex-direction: column;
     margin-left: 16px;
 }
 
